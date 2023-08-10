@@ -19,6 +19,10 @@ For example, when accessing
 
 A unified and accessible platform for all of San Francisco's zoning laws, aiding in transparency, research, and development within the city.
 
+### Potential project ideas:
+- Scrapers for accessing zoning laws in SF, along with which buildings are zoned for which things
+- LlamaHub integration for SF zoning laws
+
 ### Current Challenges
 
 ### Data
