@@ -3,8 +3,6 @@
 ## Problem Statement
 Accessing zoning laws within San Francisco has become an exceedingly cumbersome and complicated task. Current systems are scattered, unorganized, and lacking in accessibility. Aggregating all of the zoning laws in San Francisco into a single data source is essential. It would allow people to build search engines to understand the zoning laws that affect them, utilize AI to summarize them for specific use cases, create improved mapping tools, or even ignite an effort to standardize city zoning laws for adoption by other cities.
 
-For example, when accessing 
-
 ### Focus areas
 
 **Data Aggregation and Standardization:** Zoning laws are spread across various platforms and formats, making them hard to access. Creating a single repository where all the zoning laws are aggregated and standardized would streamline access and enable innovation.
