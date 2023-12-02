@@ -17,6 +17,10 @@ Accessing zoning laws within San Francisco has become an exceedingly cumbersome 
 
 A unified and accessible platform for all of San Francisco's zoning laws, aiding in transparency, research, and development within the city.
 
+## Example Hackathon Projects
+* https://devpost.com/software/citystructure-zoning-analysis
+* https://devpost.com/software/land-value-tax
+  
 ### Potential project ideas:
 - Scrapers for accessing zoning laws in SF, along with which buildings are zoned for which things
 - LlamaHub integration for SF zoning laws
@@ -34,10 +38,10 @@ The complexity of existing zoning laws and the lack of a centralized repository 
 - Historical Preservation Zones
 
 
-### Similar Projects
+### Similar Existing Projects
 - https://www.urban.org/research/publication/automating-zoning-data-collection
 - https://www.zoningatlas.org/
 - https://andrewsalzberg.wordpress.com/2013/02/22/lets-build-an-open-zoning-data-standard/
 - https://developers.google.com/transit/gtfs/
 - https://mapbrief.com/2013/02/05/why-map-portals-dont-work-part-i/
-- 
+
